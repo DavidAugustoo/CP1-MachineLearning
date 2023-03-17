@@ -23,8 +23,10 @@ Avaliar conceitos sobre Modelagem de dados e aprendizado de máquina (ML)
    - Quais são os passos a serem realizados para executar o projeto?
 
 1 - [Acesse o código disponível no Google Colab](https://colab.research.google.com/drive/1UqdF_HnKskTb-mwJ6Ys3WL9z20ATUuTX?usp=sharing/)
+   
+2 - Vá em **File > Save a copy in Drive** para salvar uma cópia
 
-2 - Vá em **Runtime > Run All** para executar todas as células 
+3 - Vá em **Runtime > Run All** para executar todas as células 
    
 ## Pré-requisitos
    - Quais são as dependências do projeto?  
